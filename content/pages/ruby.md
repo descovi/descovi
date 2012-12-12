@@ -1,0 +1,30 @@
+date: 12 dicember 2012
+
+# Ruby
+
+## È follia.
+Il mondo di Ruby è strano.
+È strano il mondo di chi fa web.
+Iniettato costantemente di novità.
+Non ti sentirai mai arrivato e rilassato.
+Le novità sono troppe.
+Le best practice pure.
+Il linguaggio migliore è sempre quello diverso da quello che stai usando ma non il tuo.
+
+Nel mondo Ruby è uguale.
+Si imparano tantissime cose e sei hai delle guide e ancora più rischioso.
+Per questo dopo un anno mi ritrovo a scrivere dentro Vim, ad adorare github,
+a scaricare gemme, a scrivere blog statici.
+Attività strane percose da vene pericolose da persone affette da sindrome di aggiornamenti costanti.
+
+Perchè promette (e alle volte ce la fa) di riuscire a fare di più con meno.
+La sintassi è felice.
+Più del php.
+Più del java.
+La comunità frenetica ed è figlia di un linguaggio "facile".
+Personalmente adoro l'idea che ho di python. 
+Ma potrebbe essere sbagliata. Anzi sicuramente è così.
+
+Il contrario di Benigni in La Tigre e la neve.
+E non cercate la novità, la novità è la cosa più vecchia che ci sia
+
