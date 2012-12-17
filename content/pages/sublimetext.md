@@ -26,11 +26,14 @@ Un cazzo di alias e buttarlo bella cartella bin dentro la root del computer. Caz
 {
   "color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
   "font_size": 14.0,
-  "ignored_packages":
-  [
-    ""
-  ],
   "tab_size": 2,
   "theme": "Soda Dark.sublime-theme",
   "translate_tabs_to_spaces": true
 }
+
+## I plugin che uso
+* sftp
+* package control
+* theme soda
+* solarized color scheme
+* coffescript
