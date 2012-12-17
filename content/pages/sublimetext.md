@@ -1,3 +1,10 @@
+## Tema
+
+Soda Theme
+https://github.com/buymeasoda/soda-theme
+
+## Linea di comando
+
 /bin contiene gli alias del sistema
 
 La seguente procedura mette l'alias verso sublime text
