@@ -1,9 +1,11 @@
 ## Tema
 
-Soda Theme
-https://github.com/buymeasoda/soda-theme
+Tema: (Soda Theme)[https://github.com/buymeasoda/soda-theme]
 
-## Linea di comando
+Colore: (Tomorrow-Theme)[https://github.com/ChrisKempson/Tomorrow-Theme]
+
+
+## Sublime a Linea di comando
 
 /bin contiene gli alias del sistema
 
@@ -19,3 +21,16 @@ che ad esempio ~/bin/subl anche con sudo davanti faccia riferimento a una fantom
 La soluzione semplice e fare uno stupido alias. Nulla più.
 Un cazzo di alias e buttarlo bella cartella bin dentro la root del computer. Cazzo.
 
+## Le mie attuali Preferenze
+
+{
+  "color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+  "font_size": 14.0,
+  "ignored_packages":
+  [
+    ""
+  ],
+  "tab_size": 2,
+  "theme": "Soda Dark.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
