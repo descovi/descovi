@@ -2,6 +2,9 @@
 Google crea canali basati sulle parole.
 Le parole chiavi di zero calcare
 http://www.zerocalcare.it/2013/01/16/il-duro-mondo-della-sintesi-giornalistica/
+Si tratta di colonizzare le parole
+
+---
 
 http://danneu.com/about-me
 
