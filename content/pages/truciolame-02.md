@@ -64,3 +64,5 @@ source:
 * http://guides.rubyonrails.org/asset_pipeline.html
 * http://apidock.com/rails/v3.2.1/Sprockets/Helpers/RailsHelper/asset_path
 
+## http_status
+http://www.codyfauser.com/2008/7/4/rails-http-status-code-to-symbol-mapping
