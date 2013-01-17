@@ -4,17 +4,22 @@ Le parole chiavi di zero calcare
 http://www.zerocalcare.it/2013/01/16/il-duro-mondo-della-sintesi-giornalistica/
 Si tratta di colonizzare le parole
 
----
+---------------------------------------------------------------------------------------
 
+# graphic visualization
+http://bost.ocks.org/mike/
+qui libro
+http://ofps.oreilly.com/titles/9781449339739/_technology_fundamentals.html
+
+---------------------------------------------------------------------------------------
+
+# css framework
 http://danneu.com/about-me
-
 ma soprattutto:
 http://www.getskeleton.com/
-
 https://github.com/viseztrance/rails-sitemap
 
-
-
+---------------------------------------------------------------------------------------
 
 # git
 ## Mostrare i log di oggi
@@ -27,7 +32,7 @@ http://stackoverflow.com/questions/5113425/how-to-make-git-log-show-all-of-today
 strare i colori di git nella shell
 git config --global color.ui true
 
----
+--------------------------------------------------------------------------------------
 
 #bashrc
 
@@ -45,7 +50,7 @@ http://www.thegeekstuff.com/2008/09/bash-shell-ps1-10-examples-to-make-your-linu
 
 (Percorso e branch di git)[http://markdotto.com/2012/10/18/terminal-hotness/]
 
----
+------------------------------------------------------------------------------------
 
 # Rails common tools
 
