@@ -32,6 +32,18 @@ http://stackoverflow.com/questions/5113425/how-to-make-git-log-show-all-of-today
 strare i colori di git nella shell
 git config --global color.ui true
 
+---
+
+# nginx
+brew install nginx
+sudo su nginx -s stop
+vim /usr/local/etc/nginx/nginx.conf
+
+location / {
+  root   /Users/xajler/www;
+  index  index.html index.htm;
+}
+
 --------------------------------------------------------------------------------------
 
 #bashrc
