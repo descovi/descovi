@@ -8,3 +8,12 @@ http://jasonsantamaria.com/articles/de-aparting
 http://jasonsantamaria.com/
 
 http://simonfosterdesign.com/blog/
+
+
+---
+
+2013
+
+Dagli di kyrbi
+http://awsme.me/hallo-welt
+http://navasca.com/nate/#top
