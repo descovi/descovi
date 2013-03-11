@@ -1,8 +1,8 @@
 # Title and subheading for your site. Used on the home page and in page
 # titles.
 #
-title: "My Site"
-subtitle: "(change this text in config/config.yml)"
+title: "Quello serio"
+subtitle: "Appunti di design e sviluppo"
 
 # You should really specify your content's author when generating an
 # Atom feed. Specify at least one of name, uri or email, and Nesta will
@@ -19,7 +19,7 @@ subtitle: "(change this text in config/config.yml)"
 # easy to create or install, and live inside the themes directory. You
 # can also use scripts/theme to install them.
 #
-theme: mio
+theme: slate
 
 # If you want to use the Disqus service (http://disqus.com) to display
 # comments on your site, register a Disqus account and then specify your
@@ -62,6 +62,6 @@ content: content
 # Don't forget to uncomment the "production:" line too...
 
 # production:
-#   cache: true    
+#   cache: true
 #   content: /var/apps/nesta/shared/content
 #   google_analytics_code: "UA-???????-?"
