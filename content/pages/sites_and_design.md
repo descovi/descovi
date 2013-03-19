@@ -8,3 +8,6 @@ http://jasonsantamaria.com/articles/de-aparting
 http://jasonsantamaria.com/
 
 http://simonfosterdesign.com/blog/
+
+riflessioni su tipografia e tutto
+http://blog.8thlight.com/billy-whited/2011/10/28/r-a-ela-tional-design.html#tips
