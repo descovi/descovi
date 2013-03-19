@@ -1,1 +1,0 @@
-http://blackpixel.com/blog/2012/11/code-review-kaleidoscope.html
