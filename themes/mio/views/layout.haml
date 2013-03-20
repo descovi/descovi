@@ -1,5 +1,5 @@
-!!!
-%html{ :lang => "en", "xml:lang" => "en", :xmlns => 'http://www.w3.org/1999/xhtml' }
+!!! 5
+%html
   %head
     %meta{ "http-equiv" => "content-type", "content" => "text/html; charset=utf-8" }
     - if @description
@@ -7,13 +7,11 @@
     - if @keywords
       %meta{ "name" => "keywords", "content" => @keywords }
     %title= @title
+    %link{ :href => "/mio/normalize.css", :media => "screen", :rel => "stylesheet", :type => "text/css" }
     %link{ :href => "/css/master.css", :media => "screen", :rel => "stylesheet", :type => "text/css" }
     - local_stylesheet_link_tag('local')
-    %link{ :href => "/articles.xml", :rel => "alternate", :type => "application/atom+xml" }
     = haml :analytics, :layout => false
   %body{ :class => @body_class }
-    #container
-      #header
-        %p.title= @heading
-        %p.subtitle= @subtitle
+    #container.container
+      #header.header
       = yield

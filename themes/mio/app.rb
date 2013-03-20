@@ -8,7 +8,7 @@ module Nesta
     #
     # Put your assets in themes/mio/public/mio.
     #
-    use Rack::Static, :urls => ["/mio"], :root => "themes/mio/public"
+    use Rack::Static, urls: ["/mio"], root: "themes/mio/public"
 
     helpers do
       # Add new helpers here.

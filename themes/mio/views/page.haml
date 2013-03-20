@@ -1,10 +1,9 @@
-.breadcrumb
-  %a{ :href => "/" } Home
-  &gt;
-  - if @page.parent
+- if @page.parent
+  .breadcrumb
+    %a{ :href => "/" } Home
     %a{ :href => @page.parent.abspath }= @page.parent.heading
-    &gt;
-  = @page.heading
+    /= "∙"
+    /= @page.heading
 
 #content
   - if @page.date
@@ -25,5 +24,3 @@
         %a{ :href => category.abspath }= category.heading
 
   = haml :comments, :layout => false
-
-= haml :sidebar, :layout => false

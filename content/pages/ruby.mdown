@@ -1,8 +1,4 @@
-date: 12 dicember 2012
-
-# Ruby
-
-## È follia.
+# Ruby, il web è follia.
 Il mondo di Ruby è strano.
 È strano il mondo di chi fa web.
 Iniettato costantemente di novità.
@@ -26,5 +22,5 @@ Personalmente adoro l'idea che ho di python.
 Ma potrebbe essere sbagliata. Anzi sicuramente è così.
 
 Il contrario di Benigni in La Tigre e la neve.
-E non cercate la novità, la novità è la cosa più vecchia che ci sia
+> E non cercate la novità, la novità è la cosa più vecchia che ci sia
 
