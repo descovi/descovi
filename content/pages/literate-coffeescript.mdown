@@ -1,0 +1,7 @@
+
+(flylatex)[https://github.com/alabid/flylatex]
+
+Articolo su literate coffescript?
+http://ashkenas.com/literate-coffeescript/
+Forse è meglio scrivere ciò di cui si sa.
+
