@@ -1,0 +1,10 @@
+# Responsive web design
+
+target % context = result
+
+## CSS
+img
+  max-width: 100%
+
+
+mobile first
