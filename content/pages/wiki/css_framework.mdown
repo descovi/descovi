@@ -1,0 +1,52 @@
+# Lego
+## Diviti et impera, css framework, view framework nell'era di Rails. 
+Prendendo spunto da smurf css (che a sua volta prende spunto da smaccs) e ampliandolo dopo un utilizzo concreto a lavoro sono giunto a tali convenzioni:
+il problema non è la verbosità delle convenzioni che ha utilizzato o non utilizzare più o meno di tre livelli ma che ciascun modulo deve essere non più grande a livello di html non più di tre - quattro livelli.
+In questo modo si evita la creazione di strutture super complicate e si mantiene tutto piccolo modulo e mantenibile.
+
+Ecco un esempio reale realizzato durante la creazione del content box di glamoo per pagine gialle.
+
+_seat-pagine-gialle--box-glamoo.haml
+```haml
+.m-box-glamoo
+  .m-box-glamoo--header
+    %h3.m-box-glamoo--header--title Corso di capoeira
+    %h4.m-box-glamoo--header--description resta in forma e bla bla
+  %img.m-box-glamoo--image{}
+  .m-box-glamoo--footer
+    .m-box-glamoo--footer--valore.m-box-glamoo--footer--element
+      .m-box-glamoo--footer--valore--label valore
+      .m-box-glamoo--footer--valore--value 159€
+    .m-box-glamoo--footer--sconto.m-box-glamoo--footer--element
+      .m-box-glamoo--footer--sconto--label sconto
+      .m-box-glamoo--footer--sconto--value 61 %
+    .m-box-glamoo--footer--prezzo-glamoo.m-box-glamoo--footer--element
+      .m-box-glamoo--footer--sconto--label prezzo-glamoo
+      .m-box-glamoo--footer--sconto--value 62,00€
+```
+spg-custom-box-glamoo.sass
+```sass
+.m-box-glamoo
+  .m-box-glamoo--header
+    .m-box-glamoo--header--title
+    .m-box-glamoo--header--description
+  .m-box-glamoo--footer
+    background-color: #323232
+    min-height: 40px
+    padding-top: 5px
+    padding-bottom: 5px
+    .m-box-glamoo--footer--element
+      color: #fff
+      float: left
+      border-right: 1px solid #959595
+      padding-right: 10px
+      padding-left: 10px
+
+```
+
+All'inizio invece per un box più grande non ho fatto dei sotto moduli come avrei dovuto fare. Comunque questa convenzione dei nomi come namespace è molto comoda e l'ho usata a pari passo anche all'interno dei nomi dei sass e delle viste. Risulta in questo modo più semplice raggiungere l'elemento interessato.
+
+Il sistema si integra molto comodamente con haml e sass.
+Il namespace dei file è determinato da frontendname che è una componente nata per esigenze commerciali. frontendname può essere utilizzato nei vari aspetto come no. è una variabile globale disponibile a combattere per le varie cause. una variabile mercenaria a costo zero che è sempre comodo utilizzare poichè ovunque disponibile.
+
+Il prinicipio del dividi et impera
